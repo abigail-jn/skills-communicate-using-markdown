@@ -5,3 +5,6 @@ Image of Yaktocat
 ``` c++
 int myInt = 7;
 ```
+- [ ] Do hw
+- [ ] Clean house
+- [ ] Feed cat
